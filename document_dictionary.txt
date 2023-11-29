@@ -1,0 +1,4 @@
+C:\Users\noel.fredrick\Desktop\datai\cacm/Code_indexer.py	1
+C:\Users\noel.fredrick\Desktop\datai\cacm/document_dictionary.txt	2
+C:\Users\noel.fredrick\Desktop\datai\cacm/indexer_part2.db	3
+C:\Users\noel.fredrick\Desktop\datai\cacm/term_dictionary.txt	4
